@@ -1,0 +1,404 @@
+
+{
+  "LiveChannels": [
+    {
+      "PlayIn": "player",
+      "ChannelName": "SKY Sports Premier League",
+      "ChannelImage": "https://kilat-live.com/api-fe-enduser/public-fe-enduser/images/3af3bb7a0c9d7d8d217fe73b8b10d46c6f1f1e75c193e782f8ca9f8e21c6913b.jpg",
+      "StreamData": [
+        {
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_SKY_SPORTS_PREMIER_LEAGUE_TV/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://kilat-live.com/",
+            "https://kilat-live.com"
+          ]
+        }
+      ]
+    },
+    {
+         "PlayIn": "player",
+      "ChannelName": "Sky Sports Footbal",
+      "ChannelImage": "https://kilat-live.com/api-fe-enduser/public-fe-enduser/images/d0c7dcdfe7cc26ccc63f1326530b6723500444d1ae3aee68fe90c3db4667150e.jpg",
+      "StreamData": [
+        {
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_SKY_SPORTS_FOOTBALL_TV/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+             "https://kilat-live.com/",
+            "https://kilat-live.com"
+          ]
+        }
+      ]
+    },
+    {
+      "PlayIn": "player",
+      "ChannelName": "SKY Sport Arena",
+      "ChannelImage": "https://kilat-live.com/api-fe-enduser/public-fe-enduser/images/67ef0aa899d8b9e416411bf46fecec01002cd6c176f465dc4a98be8057b8b07c.jpg",
+      "StreamData": [
+        {
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_SKY_SPORTS_ARENA_TV/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://kilat-live.com/",
+            "https://kilat-live.com"
+          ]
+        }
+      ]
+    },
+    {
+        "PlayIn": "player",
+      "ChannelName": "SKY SPORT F1",
+      "ChannelImage": "https://kilat-live.com/api-fe-enduser/public-fe-enduser/images/203376519a033bcb8196394c5e41eca5f5315b7d42b3af2f32e70475f13c64e9.jpg",
+      "StreamData": [
+        {
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/IT_SKY_SPORTS_F1_LIVE/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://kilat-live.com/",
+            "https://kilat-live.com"
+          ]
+        }
+      ]
+    },
+    {
+              "PlayIn": "player",
+      "ChannelName": "Sky Sports F1 UK",
+      "ChannelImage": "https://kilat-live.com/api-fe-enduser/public-fe-enduser/images/a7b573326f8c96865df066b5cad4fc63ea39e6a32505cdcb7fdfe4a9f5ec954b.jpg",
+      "StreamData": [
+        {
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_SKY_SPORTS_F1_LIVE/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+             "https://kilat-live.com/",
+            "https://kilat-live.com"
+          ]
+        }
+      ]
+    },
+    {
+      "PlayIn": "player",
+      "ChannelName": "SKY SPORT Moto GP",
+      "ChannelImage": "https://kilat-live.com/api-fe-enduser/public-fe-enduser/images/eb8e5409c7271887b86cdbd1eedcd042d3b16462f445aa87509f5cd1368c3def.jpg",
+      "StreamData": [
+        {
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/IT_SKY_SPORTS_MOTOGP_TV/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+           "https://kilat-live.com/",
+            "https://kilat-live.com"
+          ]
+        }
+      ]
+    },
+    {
+            "PlayIn": "player",
+      "ChannelName": "TNT Sports 1",
+      "ChannelImage": "https://i.imgur.com/TG0o0hd.jpeg",
+      "StreamData": [
+        {
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_TNT_SPORTS_1_TV/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://kilat-live.com/",
+            "https://kilat-live.com"
+          ]
+        }
+      ]
+    },
+    {
+            "PlayIn": "player",
+      "ChannelName": "TNT Sports 2",
+      "ChannelImage": "https://i.imgur.com/TG0o0hd.jpeg",
+      "StreamData": [
+        {
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_TNT_SPORTS_2_TV/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://kilat-live.com/",
+            "https://kilat-live.com"
+         ]
+        }
+      ]
+    },
+    {
+      "PlayIn": "player",
+      "ChannelName": "TNT Sports 3",
+      "ChannelImage": "https://i.imgur.com/TG0o0hd.jpeg",
+      "StreamData": [
+        {
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_TNT_SPORTS_3_TV/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+             "https://kilat-live.com/",
+            "https://kilat-live.com"
+         ]
+        }
+      ]
+    },
+    {
+            "PlayIn": "player",
+      "ChannelName": "TNT Sports 4",
+      "ChannelImage": "https://i.imgur.com/TG0o0hd.jpeg",
+      "StreamData": [
+        {
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_TNT_SPORTS_4_TV/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+             "https://kilat-live.com/",
+            "https://kilat-live.com"
+         ]
+        }
+      ]
+    },
+    {
+      "PlayIn": "player",
+      "ChannelName": "FOX SPORT 1",
+      "ChannelImage": "https://kilat-live.com/api-fe-enduser/public-fe-enduser/images/40fa3bea4d03d552367f7f3cb5383a79e9af9a53aae99fe904896553486287bb.jpg",
+      "StreamData": [
+        {
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/FOX_SPORTS_1_TV/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://kilat-live.com/",
+            "https://kilat-live.com"
+         ]
+        }
+      ]
+    },
+    {
+      "PlayIn": "player",
+      "ChannelName": "Fox Sport 2",
+      "ChannelImage": "https://kilat-live.com/api-fe-enduser/public-fe-enduser/images/5ed5318d514e43aca26a7009ded8b890bd7803c2d557b268741b1e3829734d59.jpg",
+      "StreamData": [
+        {
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/FOX_SPORTS_2_TV/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://kilat-live.com/",
+            "https://kilat-live.com"
+             ]
+        }
+      ]
+    },
+    {
+      "PlayIn": "player",
+      "ChannelName": "NFL TV",
+      "ChannelImage": "https://kilat-live.com/api-fe-enduser/public-fe-enduser/images/0d6fba270e4e7526c5f417c8a97e474f978fe371f29d99e069a18045f4aa554c.jpg",
+      "StreamData": [
+        {
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/NFL_NETWORK/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://kilat-live.com/",
+            "https://kilat-live.com"
+             ]
+        }
+      ]
+    },
+    {
+      "PlayIn": "player",
+      "ChannelName": "ESPN DEPORTES",
+      "ChannelImage": "https://espnpressroom.com/us/files/2009/11/ESPN_Deportes_CLR_Neg.jpg",
+      "StreamData": [
+        {
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_US_ESPN_DEPORTES/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://kilat-live.com/",
+            "https://kilat-live.com"
+             ]
+        }
+      ]
+    },
+    {
+      "PlayIn": "player",
+      "ChannelName": "Racing TV",
+      "ChannelImage": "https://kilat-live.com/api-fe-enduser/public-fe-enduser/images/c769f0802825287567b61fe738a5886b7fddbc1fcb54a78f735bd98ad5694152.jpg",
+      "StreamData": [
+        {
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/RACING_TV/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://kilat-live.com/",
+            "https://kilat-live.com"
+            ]
+        }
+      ]
+    },
+    {
+      "PlayIn": "player",
+      "ChannelName": "ITV 1",
+      "ChannelImage": "https://kilat-live.com/api-fe-enduser/public-fe-enduser/images/464e27f98af7faebec3666a993fa008dddded072d56a0aff246e3561183916a3.jpg",
+      "StreamData": [
+        {
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_ITV_1_TV/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://kilat-live.com/",
+            "https://kilat-live.com"
+            ]
+        }
+      ]
+    },
+    {
+      "PlayIn": "player",
+      "ChannelName": "BBC 1",
+      "ChannelImage": "https://kilat-live.com/api-fe-enduser/public-fe-enduser/images/8d72599464ba8d32c51b0f52a31ca89f83b08f044a9aaaa0b03b8be4e5a56031.jpg",
+      "StreamData": [
+        {
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_BBC_1_TV/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://kilat-live.com/",
+            "https://kilat-live.com"
+     ]
+        }
+      ]
+    },
+    {
+      "PlayIn": "player",
+      "ChannelName": "Tennis Channel",
+      "ChannelImage": "https://kilat-live.com/api-fe-enduser/public-fe-enduser/images/5be7f84659a9db5855a00e2473da2960af31a16b7763ce45d2df921d37538766.jpg",
+      "StreamData": [
+        {
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/TENNIS_CHANNEL_TV/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://kilat-live.com/",
+            "https://kilat-live.com"
+            ]
+        }
+      ]
+    },
+    {
+      "PlayIn": "player",
+      "ChannelName": "Sky Cinema",
+      "ChannelImage": "https://kilat-live.com/api-fe-enduser/public-fe-enduser/images/0084415f12c19522d8f446f5e42942bdbd5b76223f1bdef781da33bba64d788e.jpg",
+      "StreamData": [
+        {
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_SKY_CINEMA_TV/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://kilat-live.com/",
+            "https://kilat-live.com"
+            ]
+        }
+      ]
+    },
+    {
+      "PlayIn": "player",
+      "ChannelName": "MTV",
+      "ChannelImage": "https://kilat-live.com/api-fe-enduser/public-fe-enduser/images/e4ec74f058934c7aed5b73acafe7d9452bb38f3ec63e4407eb8efcc8bf5f0761.jpg",
+      "StreamData": [
+        {
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_MTV_TV/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://kilat-live.com/",
+            "https://kilat-live.com"
+             ]
+        }
+      ]
+    },
+    {
+      "PlayIn": "player",
+      "ChannelName": "Animal Planet",
+      "ChannelImage": "https://kilat-live.com/api-fe-enduser/public-fe-enduser/images/43970f684bc0673eb3b88b416358df9d9a00bd0854918cb373621635388a4e84.jpg",
+      "StreamData": [
+        {
+          "StreamLink": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/US_ANIMAL_PLANET_TV/tracks-v1a1/mono.ts.m3u8",
+          "UseTimStreamerDecoder": false,
+          "NewappHeaders": [
+            "referer",
+            "origin"
+          ],
+          "NewappHeadersValues": [
+            "https://kilat-live.com/",
+            "https://kilat-live.com"
+          ]
+        }
+      ]
+    }
+  ]
+}
