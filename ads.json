@@ -1,0 +1,152 @@
+{
+  "Quizzes": [
+    {
+      "QuizOptions": [
+        "Brazil",
+        "Germany",
+        "France",
+        "Argentina"
+      ],
+      "QuizQuestion": "Which country won the FIFA World Cup in 2018?",
+      "UizAnswerIndex": 2
+    },
+    {
+      "QuizOptions": [
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Pele",
+        "Maradona"
+      ],
+      "QuizQuestion": "Who is known as the all-time top scorer in football history?",
+      "UizAnswerIndex": 1
+    },
+    {
+      "QuizOptions": [
+        "Real Madrid",
+        "Barcelona",
+        "Bayern Munich",
+        "Liverpool"
+      ],
+      "QuizQuestion": "Which club has won the most UEFA Champions League titles?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": [
+        "Sadio Mane",
+        "Riyad Mahrez",
+        "Karim Benzema",
+        "Mohamed Salah"
+      ],
+      "QuizQuestion": "Which player is known as 'The Egyptian King'?",
+      "UizAnswerIndex": 3
+    },
+    {
+      "QuizOptions": [
+        "Russia",
+        "USA",
+        "Qatar",
+        "Germany"
+      ],
+      "QuizQuestion": "Which country hosted the 2022 FIFA World Cup?",
+      "UizAnswerIndex": 2
+    },
+    {
+      "QuizOptions": [
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Ronaldinho",
+        "Zidane"
+      ],
+      "QuizQuestion": "Which player has won the most Ballon d'Or awards?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": [
+        "Liverpool",
+        "Manchester United",
+        "Arsenal",
+        "AC Milan"
+      ],
+      "QuizQuestion": "Which club is known as 'The Red Devils'?",
+      "UizAnswerIndex": 1
+    },
+    {
+      "QuizOptions": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "QuizQuestion": "How many players are there in a football team on the field?",
+      "UizAnswerIndex": 2
+    },
+    {
+      "QuizOptions": [
+        "Brazil",
+        "Germany",
+        "Italy",
+        "France"
+      ],
+      "QuizQuestion": "Which country has won the most World Cups?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": [
+        "Striker",
+        "Midfielder",
+        "Defender",
+        "Goalkeeper"
+      ],
+      "QuizQuestion": "Which position is primarily responsible for stopping goals?",
+      "UizAnswerIndex": 3
+    }
+  ],
+  "PlayerConfig": {
+    "ShowQuiz": false,
+    "ClickCount": 3,
+    "ShowEvents": false,
+    "ShowScores": true,
+    "ShowUpdate": false,
+    "UpdateLink": "",
+    "ShowChannels": false,
+    "PlayerPackage": "com.smartflix.proplayer",
+    "ShowCustomAds": false,
+    "UpdateVersion": 1,
+    "ShowAutoEvents": false,
+    "server_priority": {
+      "str": 2,
+      "manual": 1,
+      "timstreamer": 3
+    },
+    "ShowAutoChannels": false,
+    "ShowManualEvents": false,
+    "ShowManualChannels": false,
+    "PlayerChannelsAndEventsInPlayer": false
+  },
+  "CustomInterAds": [
+    {
+      "ShowQr": true,
+      "InterstitialLink": "https://glovo.com",
+      "ShowImageOrVideo": 0,
+      "InterstitialImageLink": "https://i.ytimg.com/vi/gQqlVIKBm7E/maxresdefault.jpg",
+      "InterstitialVideoLink": "https://video.adsoftheworld.com/hx9h2ctz5mkiuojooqeaso8jpk96.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    },
+    {
+      "ShowQr": false,
+      "InterstitialLink": "https://glovo.com",
+      "ShowImageOrVideo": 0,
+      "InterstitialImageLink": "https://i.ytimg.com/vi/gQqlVIKBm7E/maxresdefault.jpg",
+      "InterstitialVideoLink": "https://video.adsoftheworld.com/eeqz98r9d9c779wt29ousfqkjxm3.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    },
+    {
+      "ShowQr": false,
+      "InterstitialLink": "https://glovo.com",
+      "ShowImageOrVideo": 1,
+      "InterstitialImageLink": "https://image.adsoftheworld.com/gooc3m74ymk8fjkps26s3ju3oq9z",
+      "InterstitialVideoLink": "https://video.adsoftheworld.com/eeqz98r9d9c779wt29ousfqkjxm3.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    }
+  ]
+}
