@@ -1,0 +1,63 @@
+{
+  "LiveEvents": [
+    {
+      "MatchStatus": "Live",
+      "FirstTeamLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/202.png",
+      "FirstTeamName": "Argentina",
+      "SecondTeamLogo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/164.png",
+      "SecondTeamName": "Spain",
+      "MatchTime": "21:00",
+      "StreamData": [
+        {
+               "StreamLink": "https://fiveo4.vilevodules.uk/main/secure/e81e1bbbfd160abde3ba911c97bfab543d50839ae4f9326dbdad636e9c60d040/1784503431/beinsportsmax-sa.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin", "referer"],
+            "NewappHeadersValues": ["https://logic.icelanders.st", "https://logic.icelanders.st/"]
+      
+        },{
+               "StreamLink": "https://fiveo4.vilevodules.uk/main/secure/e81e1bbbfd160abde3ba911c97bfab543d50839ae4f9326dbdad636e9c60d040/1784503431/beinsportsmax-sa.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin", "referer"],
+            "NewappHeadersValues": ["https://logic.icelanders.st", "https://logic.icelanders.st/"]
+      
+        },{
+          "StreamLink": "https://fiveo4.vilevodules.uk/main/secure/7b09129b2936f9c9e517ea4b1f22b64c2e5308a931b99fb8d0dfa5826500993a/1784500748/fox-usa.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin", "referer"],
+            "NewappHeadersValues": ["https://logic.icelanders.st", "https://logic.icelanders.st/"]
+      
+        },{
+              "StreamLink": "https://fiveo4.vilevodules.uk/main/secure/e81e1bbbfd160abde3ba911c97bfab543d50839ae4f9326dbdad636e9c60d040/1784503431/beinsportsmax-sa.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin", "referer"],
+            "NewappHeadersValues": ["https://logic.icelanders.st", "https://logic.icelanders.st/"]
+      
+        },{
+             "StreamLink": "https://fiveo4.vilevodules.uk/main/secure/918142e4a082fa39cd823f6d2964f09f107e509dc5f46ffe9c56e32eb6535973/1784500838/tsn1-ca.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin", "referer"],
+          "NewappHeadersValues": ["https://logic.icelanders.st", "https://logic.icelanders.st/"]
+      
+        },{
+             "StreamLink": "https://fiveo4.vilevodules.uk/main/secure/d9a69b4c4a8982deb7f11522727e750795f53418617afe667aa1157f90f5d6b9/1784499963/beinsportsmax-sa.m3u8",
+          "UseTimStreamerDecoder": false,
+          "UseCDNDecoder": false,
+          "NewappHeaders": ["origin", "referer"],
+          "NewappHeadersValues": ["https://logic.icelanders.st", "https://logic.icelanders.st/"]
+ 
+        }
+      ],
+      "PlayIn": "player",
+      "CupName": "World Cup 2026 - Round of 16",
+      "TV": "beIN SPORTS CONNECT",
+      "Tickets": "Available",
+      "LocationWeather": "Zurich, Switzerland",
+      "Odds": "Match Odds"
+    }
+  ]
+}
