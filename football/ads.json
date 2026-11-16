@@ -1392,7 +1392,7 @@
     "UpdateVersion": 1,
     "ShowTvChannels": true,
     "ShowLiveMatches": true,
-    "ShowCustomInterAds": true,
+    "ShowCustomInterAds": false,
     "PlayInExternalPlayer": true
   },
   "CustomInterAds": [
